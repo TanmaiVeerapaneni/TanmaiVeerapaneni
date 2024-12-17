@@ -1,13 +1,10 @@
 ### Hi there 👋
 
 
-**This is TanmaiVeerapaneni**
+**This is Tanmai Veerapaneni**
 
 - 🔭 I’m currently working / studying ...  
-  As Student - Btech
-  
-- 🌱 I’m currently learning ...  
-  Computer Sciences
+  As Student - MS in Data Science - University Of Houston
   
 - 🤔 I’m looking for help with ...  
   Technological aspects
