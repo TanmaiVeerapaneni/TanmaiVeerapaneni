@@ -14,7 +14,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 **Data Analysis:** SQL, Tableau, Power BI, Excel, statistical analysis
 
-**Data Science:** Python (scikit-learn, TensorFlow, PyTorch), R, statistical modeling, machine learning
+**Data Science:** Python (scikit-learn, TensorFlow, PyTorch), R, machine learning, statistical modeling
 
 **Databases:** PostgreSQL, MySQL, MSSql NoSQL
 
