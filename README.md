@@ -22,7 +22,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 ## Connect with Me
 
-Email: tanmai2002@gmail.com
+**Email**: tanmai2002@gmail.com
 
 ## Let's Collaborate!
 
