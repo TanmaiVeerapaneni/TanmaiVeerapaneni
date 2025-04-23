@@ -10,7 +10,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 **Programming Languages:** Python, Java, SQL, R
 
-**Data Engineering:** Hadoop, Spark, AWS, Azure
+**Data Engineering:** Hadoop, Spark, AWS, Azure, Snowflake
 
 **Data Analysis:** SQL, Tableau, Power BI, Excel, statistical analysis
 
