@@ -16,7 +16,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 **Data Science:** Python (scikit-learn, TensorFlow, PyTorch), R, machine learning, statistical modeling
 
-**Databases:** PostgreSQL, MySQL, MSSql NoSQL
+**Databases:** PostgreSQL, MySQL, MSSQl, NoSQL
 
 **Cloud:** AWS, Azure
 
@@ -26,7 +26,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 ## Let's Collaborate!
 
-I'm open to discussing new opportunities and collaborations. Feel free to reach out!!
+I'm open to discussing new opportunities and collaborations. Feel free to reach out!!!
   
 
 
