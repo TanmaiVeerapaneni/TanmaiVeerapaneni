@@ -1,4 +1,4 @@
-# Hi, I'm Tanmai Veerapaneni 👋
+# Hi, I'm Tanmai Veerapaneni 👋😄
 
 A passionate and driven professional with experience in data engineering and analytics, software development and machine learning. I'm eager to apply my skills to solve challenging problems and build innovative solutions.
 
