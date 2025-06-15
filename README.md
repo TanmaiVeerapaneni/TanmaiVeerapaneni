@@ -25,7 +25,7 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 **Email**: tanmai2002@gmail.com, tanmai.veerapaneni@gmail.com
 
 ## Let's Collaborate!
-I'm open to discussing new opportunities and collaborations. Feel free to reach out.!!!
+I'm open to discussing new opportunities and collaborations. Feel free to reach out..!!!
   
 
 
