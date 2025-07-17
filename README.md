@@ -16,11 +16,11 @@ I have a strong foundation in Python, SQL, and cloud computing. My experience in
 
 **Data Science:** Python (Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), R, Machine Learning, Statistical Modeling
 
-**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design (Spring Web, Swagger), React.js, Redux  
+**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design, React.js
 
 **Containerization & Orchestration:**  Docker, Kubernetes  
 
-**CI/CD & DevOps:** Jenkins / GitHub Actions pipelines, AWS Elastic Kubernetes Service (EKS)  
+**CI/CD & DevOps:** Jenkins, GitHub, AWS Elastic Kubernetes Service (EKS)  
 
 **Databases:** PostgreSQL, MySQL, MSSQl, NoSQL
 
