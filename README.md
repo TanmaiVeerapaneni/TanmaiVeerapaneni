@@ -14,17 +14,17 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 .
 **Data Analysis:** SQL, Tableau, Power BI, Excel, Statistical Analysis.
 
-**Data Science:** Python (Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), R, Machine Learning, Statistical Modeling
+**Data Science:** Python (Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), R, Machine Learning, Statistical Modeling.
 
-**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design, React.js
+**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design, React.js.
 
-**Containerization & Orchestration:**  Docker, Kubernetes  
+**Containerization & Orchestration:**  Docker, Kubernetes.
 
-**CI/CD & DevOps:** Jenkins, GitHub, AWS Elastic Kubernetes Service (EKS)  
+**CI/CD & DevOps:** Jenkins, GitHub, AWS Elastic Kubernetes Service (EKS).
 
-**Databases:** PostgreSQL, MySQL, MSSQl, NoSQL
+**Databases:** PostgreSQL, MySQL, MSSQl, NoSQL.
 
-**Cloud:** AWS, Azure
+**Cloud:** AWS, Azure.
 
 ## Connect with Me
 
