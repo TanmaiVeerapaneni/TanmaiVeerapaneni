@@ -8,7 +8,7 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 
 ## Skills
 
-**Programming Languages:** Python (PySpark, Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), Java, JavaScript, R, SQL, HTML, XML.
+**Programming Languages:** Python (PySpark, Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), Java, JavaScript, R, SQL, HTML.
 
 **Data Engineering:** Databricks, Snowflake, Hadoop, Spark, AWS, Azure, Apache Kafka, Apache Airflow.
 .
