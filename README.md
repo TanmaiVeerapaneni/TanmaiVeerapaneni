@@ -20,7 +20,7 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 
 **Containerization & Orchestration:**  Docker, Kubernetes.
 
-**CI/CD & DevOps:** Jenkins, GitHub, AWS Elastic Kubernetes Service (EKS).
+**CI/CD & DevOps:** Jenkins, GitHub.
 
 **Databases:** PostgreSQL, MySQL, MSSQl, NoSQL.
 
