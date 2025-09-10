@@ -16,7 +16,7 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 
 **Data Science:** Python (Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), R, Machine Learning, Statistical Modeling.
 
-**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design, React.js.
+**Frameworks & Libraries:**  Spring Boot, Spring MVC, RESTful API design.
 
 **Containerization & Orchestration:**  Docker, Kubernetes.
 
@@ -30,7 +30,7 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 
 **Email**: tanmai2002@gmail.com, tanmai.veerapaneni@gmail.com
 
-**LinkedIn**: https://www.linkedin.com/in/tanmai-veerapaneni-013484204/
+**LinkedIn**: https://www.linkedin.com/in/tanmai-v-013484204/
 
 ## Portfolio
 **Here's my Portfolio to know morw about my works**: https://www.datascienceportfol.io/tanmai2002
