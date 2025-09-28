@@ -1,4 +1,4 @@
-# Hi, This is TANMAI VEERAPANENI ....😊👋😄✌️ !!!!!
+# Hi, This is TANMAI VEERAPANENI ....😊👋😄✌️ !!!
 
 A passionate and driven professional with experience in data engineering and analytics, software development and machine learning. I'm eager to apply my skills to solve challenging problems and build innovative solutions in the real time scenarios.
 
@@ -36,7 +36,7 @@ I have a strong foundation in Python, Java, SQL, and cloud computing. My experie
 **Here's my Portfolio to know morw about my works**: https://www.datascienceportfol.io/tanmai2002
 
 ## Let's Collaborate!
-I'm open to discussing new opportunities and collaborations. Feel free to reach out to me...!!!!!!!
+I'm open to discussing new opportunities and collaborations. Feel free to reach out to me...!!!!!
   
 
 
