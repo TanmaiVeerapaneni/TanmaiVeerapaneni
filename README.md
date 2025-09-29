@@ -4,7 +4,7 @@ A passionate and driven professional with experience in data engineering and ana
 
 ## About Me
 
-I have a strong foundation in Python, Java, SQL, and cloud computing. My experience includes developing data pipelines,  building machine learning models, developing full stack applications and creating web applications. I'm a quick learner, a strong team player, and I'm always looking for opportunities to expand and apply my knowledge.
+I have a strong foundation in Python, Java, SQL, Pyspark and cloud computing. My experience includes developing data pipelines,  building machine learning models, developing full stack applications and creating web applications. I'm a quick learner, a strong team player, and I'm always looking for opportunities to expand and apply my knowledge.
 
 ## Skills
 
