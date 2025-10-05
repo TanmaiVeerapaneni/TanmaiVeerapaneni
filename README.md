@@ -10,7 +10,7 @@ I have a strong foundation in Python, Java, SQL, Pyspark and cloud computing. My
 
 **Programming Languages:** Python (PySpark, Pandas, TensorFlow, Scikit-learn, Numpy, Matplotlib), Java, JavaScript, R, SQL, HTML.
 
-**Data Engineering:** Databricks, Snowflake, Hadoop, Spark, AWS, Microsoft Azure, Apache Kafka, Apache Airflow.
+**Data Engineering:** Databricks, Snowflake, Hadoop, Spark, Apache Kafka, Apache Airflow.
 
 **Data Analysis:** SQL, Tableau, Power BI, Excel, Statistical Analysis.
 
@@ -24,7 +24,7 @@ I have a strong foundation in Python, Java, SQL, Pyspark and cloud computing. My
 
 **Databases:** PostgreSQL, MySQL, MSSQl, NoSQL.
 
-**Cloud:** AWS, Azure.
+**Cloud:** AWS, Microsoft Azure.
 
 ## Connect with Me
 
