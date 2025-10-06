@@ -1,4 +1,4 @@
-# Hi, This is TANMAI VEERAPANENI ....😊👋😄✌️ !!!
+# Hi, This is TANMAI VEERAPANENI ...😊👋😄✌️ !!!!!
 
 A passionate and driven professional with experience in data engineering and analytics, software development and machine learning. I'm eager to apply my skills to solve challenging problems and build innovative solutions in the real time scenarios.
 
@@ -20,7 +20,7 @@ I have a strong foundation in Python, Java, SQL, Pyspark and cloud computing. My
 
 **Containerization & Orchestration:**  Docker, Kubernetes.
 
-**CI/CD & Version Control** Jenkins, GitHub.
+**CI/CD & Version Control** GitHub.
 
 **Databases:** PostgreSQL, MySQL, MSSQl, NoSQL.
 
