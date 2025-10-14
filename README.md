@@ -24,7 +24,7 @@ I have a strong foundation in Python, Java, SQL, Pyspark and cloud computing. My
 
 **Databases:** PostgreSQL, MySQL, MSSQl, NoSQL.
 
-**Cloud:** AWS, Microsoft Azure.
+**Cloud:** Amazon Web Services, Microsoft Azure.
 
 ## Connect with Me
 
