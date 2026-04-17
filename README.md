@@ -162,20 +162,7 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 🏅 **Tableau Desktop Specialist**
 
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tanmai-v&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FFF&icon_color=4F8FFF&text_color=FFFFFF" height="170" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tanmai-v&theme=tokyonight&hide_border=true&background=0D1117&ring=4F8FFF&fire=FF6B6B&currStreakLabel=4F8FFF" height="170" />
-
-</div>
-
----
-
+-----
 ## 🤝 Let's Connect!
 
 <div align="center">
