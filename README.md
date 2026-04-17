@@ -174,12 +174,6 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmai-v&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FFF&text_color=FFFFFF" height="150" />
-
-</div>
-
 ---
 
 ## 🤝 Let's Connect!
