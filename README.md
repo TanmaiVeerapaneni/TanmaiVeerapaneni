@@ -162,7 +162,27 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 🏅 **Tableau Desktop Specialist**
 
 </div>
------
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TanmaiVeerapaneni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FFF&icon_color=4F8FFF&text_color=FFFFFF&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanmaiVeerapaneni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F8FFF&text_color=FFFFFF&langs_count=8" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanmaiVeerapaneni&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=4F8FFF&line=4F8FFF&point=FFFFFF" width="95%" />
+
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -187,7 +207,7 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tanmai-v&style=flat-square&color=4F8FFF" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=TanmaiVeerapaneni&style=flat-square&color=4F8FFF" alt="Profile views" />
 
 ⭐️ *"I build the pipelines that feed the models, and the models that make the pipelines smarter."* ⭐️
 
