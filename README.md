@@ -8,7 +8,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datascienceportfol.io/tanmai2002)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanmai.veerapaneni@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8FFF&center=true&vCenter=true&random=false&width=600&lines=Building+ETL+Pipelines+at+Marsh+%26+McLennan+%F0%9F%8F%97%EF%B8%8F;Triple+Certified+%E2%80%94+Databricks+%7C+Azure+%7C+Fabric+%F0%9F%8E%93;Shipping+SmartNews+AI+%E2%80%94+Full-Stack+RAG+Platform+%F0%9F%A7%A0;MS+Engineering+Data+Science+%7C+3.96+GPA+%F0%9F%8E%AF" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F8FFF&center=true&vCenter=true&random=false&width=600&lines=Building+ETL+Pipelines+at+Marsh+%26+McLennan+%F0%9F%8F%97%EF%B8%8F;Triple+Certified+%E2%80%94+Databricks+%7C+Azure+%7C+Fabric+%F0%9F%8E%93;Shipping+SmartNews+AI+%E2%80%94+Full-Stack+RAG+Platform+%F0%9F%A7%A0;Live+Streaming+Demo+%E2%80%94+Neon+Runner+%F0%9F%8E%AE;MS+Engineering+Data+Science+%7C+3.96+GPA+%F0%9F%8E%AF" alt="Typing SVG" />
 
 </div>
 
@@ -23,6 +23,7 @@ current_role: Specialist - Digital Visualization & Data Analytics @ Marsh & McLe
 education: MS Engineering Data Science | University of Houston (3.96 GPA)
 focus: Data Engineering + AI/ML Systems
 currently_building: SmartNews AI — a full-stack RAG-powered news platform
+also_shipping: Neon Runner — a browser-native streaming pipeline demo
 fun_fact: I have a patent for an Intelligent Smart Cooker 🍳
 ```
 
@@ -34,7 +35,7 @@ fun_fact: I have a patent for an Intelligent Smart Cooker 🍳
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🧠 SmartNews AI
 **Full-Stack AI News Platform**
@@ -44,7 +45,17 @@ A 16-service beast running on Docker — ingests news via RSS & APIs, processes 
 `Kafka` `Spark` `Airflow` `dbt` `LangChain` `Ollama` `ChromaDB` `FastAPI` `Next.js` `Docker` `K8s` `Terraform` `Grafana`
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### 🎮 Neon Runner
+**Streaming Pipeline Demo**
+
+A browser-native streaming analytics demo — a 3D endless runner where every player action flows through a Producer → Buffer → Processor → Sink pipeline with windowed aggregations and z-score anomaly detection. **[▶ Live Demo](https://tanmaiveerapaneni.github.io/NeonRunner/)**
+
+`Three.js` `ES Modules` `Stream Processing` `Anomaly Detection` `WebGL` `GitHub Pages`
+
+</td>
+<td width="33%">
 
 ### 🏗️ T&E Pipeline @ Marsh
 **Enterprise Data Engineering**
@@ -111,6 +122,7 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -129,6 +141,7 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=flat-square)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
 </details>
 
@@ -139,6 +152,7 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 | | Project | What It Does | Stack |
 |---|---------|-------------|-------|
 | 🧠 | **SmartNews AI** | AI news platform with RAG chatbot, streaming ingestion, and full observability | Kafka · Spark · LangChain · Ollama · ChromaDB · Docker · K8s |
+| 🎮 | **[Neon Runner](https://github.com/TanmaiVeerapaneni/NeonRunner)** ✨ | Browser-native streaming pipeline demo with anomaly detection — **[try it live](https://tanmaiveerapaneni.github.io/NeonRunner/)** | Three.js · ES Modules · Stream Processing · WebGL |
 | 🛒 | **E-Commerce Pipeline** | End-to-end DLT pipeline with SCD modeling and loyalty scoring | Databricks · Delta Live Tables · Unity Catalog · AWS |
 | 🎙️ | **AI Voice Assistant** | Multimodal assistant — hears with Whisper, sees with LLaVA 👀 | Whisper · LLaVA · Python · NLP |
 | 📈 | **Stock Price Prediction** | Compared 5 forecasting models on GE stock data | ARIMA · Prophet · LSTM · Random Forest |
@@ -188,6 +202,8 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 <div align="center">
 
 🔭 I'm currently working on **SmartNews AI** and scaling pipelines at **Marsh & McLennan**
+
+🎮 Just shipped **[Neon Runner](https://tanmaiveerapaneni.github.io/NeonRunner/)** — a streaming pipeline demo you can play in your browser
 
 🌱 I'm currently deepening my skills in **LLMs, RAG architectures, and Kubernetes**
 
