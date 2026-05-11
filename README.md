@@ -38,7 +38,7 @@ fun_fact: I have a patent for an Intelligent Smart Cooker 🍳
 <td width="33%">
 
 ### 🧠 SmartNews AI
-**Full-Stack AI News Platform**
+***Full-Stack AI News Platform***
 
 A 16-service beast running on Docker — ingests news via RSS & APIs, processes through Kafka + Spark, transforms with dbt, and serves personalized content through a RAG chatbot powered by LangChain + Ollama.
 
@@ -50,7 +50,7 @@ A 16-service beast running on Docker — ingests news via RSS & APIs, processes 
 ### 🎮 Neon Runner
 **Streaming Pipeline Demo**
 
-A browser-native streaming analytics demo — a 3D endless runner where every player action flows through a Producer → Buffer → Processor → Sink pipeline with windowed aggregations and z-score anomaly detection. **[▶ Live Demo](https://tanmaiveerapaneni.github.io/NeonRunner/)**
+A browser-native streaming analytics demo — a 3D endless runner where every player action flows through a "Producer → Buffer → Processor → Sink" pipeline with windowed aggregations and z-score anomaly detection. **[▶ Live Demo](https://tanmaiveerapaneni.github.io/NeonRunner/)**
 
 `Three.js` `ES Modules` `Stream Processing` `Anomaly Detection` `WebGL` `GitHub Pages`
 
