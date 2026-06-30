@@ -147,6 +147,10 @@ Daily pipeline pulling from Oracle DBs, BCD travel files, and Amex expenses via 
 
 ---
 
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/tanmaiv?theme=dark&font=Karma&ext=heatmap)](https://leetcode.com/tanmaiv/)
+
 ## 🚀 Projects
 
 | | Project | What It Does | Stack |
