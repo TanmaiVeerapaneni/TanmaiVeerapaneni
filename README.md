@@ -30,8 +30,24 @@ fun_fact: I have a patent for an Intelligent Smart Cooker 🍳
 > *I work across the full stack — from pulling raw data off SFTP servers at 6 AM to building RAG chatbots that answer questions about the news. If it involves data, pipelines, or AI, I'm probably already tinkering with it.* 😎
 
 ---
+## What I'm working on right now!
+### Conversational BI for Marsh Risk Analytics
 
-## 🔥 What I'm Building Right Now
+An LLM-powered conversational analytics system (built on Databricks Genie) that lets
+business analysts query enterprise financial data in natural language instead of SQL.
+My work spans the evaluation framework and the underlying data engineering that keeps
+answers correct.
+
+**My role**
+- Own benchmark authoring & evaluation — single-turn and multi-turn disambiguation scenarios in MLflow to measure and improve natural-language-to-SQL accuracy
+- Built a rerunnable validation pipeline reconciling financial values across three sources (EPM cube, general ledger, lakehouse) with normalized sign / currency / rollup logic
+- Diagnosed and fixed correctness bugs in the GL balance layer feeding the BI metrics
+
+**Stack:** Databricks Genie · MLflow · PySpark · Spark SQL · Delta Lake · Unity Catalog · Python
+
+> Code is proprietary to Marsh & McLennan; this entry describes my contributions and the system at a high level.
+
+## 🔥 What I've Built
 
 <table>
 <tr>
